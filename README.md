@@ -1,2 +1,3 @@
 # eclipse-launch-configurations
-a collection of eclipse "launch configuration" files
+
+A collection of eclipse configuration files
